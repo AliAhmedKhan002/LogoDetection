@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.17763-SP0",
+    "python": "3.11.3",
+    "heartbeatAt": "2024-01-16T13:23:02.259938",
+    "startedAt": "2024-01-16T13:23:00.499688",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:\\Forbmax User Data\\waqar sahi\\LogoDetection\\v8\\train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "host": "Forbmax-Server2",
+    "username": "MWaqar",
+    "executable": "D:\\ProgramData\\anaconda3\\envs\\yolo_Waqar_live\\python.exe",
+    "cpu_count": 24,
+    "cpu_count_logical": 48,
+    "cpu_freq": {
+        "current": 2201.0,
+        "min": 0.0,
+        "max": 2201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2201.0,
+            "min": 0.0,
+            "max": 2201.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 2013.2685508728027,
+            "used": 1931.9133415222168
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 255.8394660949707
+    }
+}
